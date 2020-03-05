@@ -2,8 +2,8 @@
 
 Russian Roulette in C++.
 
-Each player has an randomized array of 6 pointers.
-5 of these pointers are valid and the last one is set to `nullptr`.
+Each player has an array of 6 pointers.
+5 of these pointers are valid and the last one is set to `nullptr`and has a random position.
 
 Firing a shot with the revolver is represented by the dereferencing
 of the current pointer of the array and an incrementation of the array.
