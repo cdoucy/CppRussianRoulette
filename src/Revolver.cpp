@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "Revolver.hpp"
-#include <iostream>
+
 Revolver::Revolver()
 :   remain(NB_BULLETS)
 {
