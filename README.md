@@ -14,5 +14,5 @@ USAGE:
 
 ```
 $ make
-$ ./russian_roulette [player number]
+$ ./russian_roulette [players number]
 ```
