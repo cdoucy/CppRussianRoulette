@@ -8,7 +8,7 @@ Each player has an array of 6 pointers.
 Firing a shot with the revolver is represented by the dereferencing
 of the current pointer of the array and an incrementation of the array.
 
-The first player which get a `segmentation fault` is dead ans the game is done.
+The first player which get a `segmentation fault` is dead and the game is done.
 
 USAGE:
 
